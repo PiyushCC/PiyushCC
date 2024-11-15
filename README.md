@@ -12,6 +12,8 @@
 
 📫 Reach me at **[piyushchaudhari151001@gmail.com](mailto:piyushchaudhari151001@gmail.com)**  
 
+🔗 Connect with me on **[LinkedIn](www.linkedin.com/in/piyush-chaudhari-64857a217)**
+
 ---
 
 <!---
