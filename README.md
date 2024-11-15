@@ -5,8 +5,11 @@
 
 ### About Me  
 🔭 Currently working as Database Developer @ Media.net
+
 🌱 Learning **[Database Transaction Basics]**
+
 🎯 Goal: Contribute to meaningful projects
+
 📫 Reach me at **[piyushchaudhari151001@gmail.com](mailto:piyushchaudhari151001@gmail.com)**  
 
 ---
