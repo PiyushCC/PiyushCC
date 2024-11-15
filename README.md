@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @PiyushCC
-- 👀 I’m interested in 
-- 🌱 I’m currently working as Database Developer @ Media.net
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there! I'm Piyush Chaudhari
+💻 Software Developer | 🌟 Tech Enthusiast | 🚀 Lifelong Learner  
+
+---
+
+### About Me  
+🔭 Currently working as Database Developer @ Media.net
+🌱 Learning **[Database Transaction Basics]**
+🎯 Goal: Contribute to meaningful projects
+📫 Reach me at **[piyushchaudhari151001@gmail.com](mailto:piyushchaudhari151001@gmail.com)**  
+
+---
 
 <!---
 PiyushCC/PiyushCC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
